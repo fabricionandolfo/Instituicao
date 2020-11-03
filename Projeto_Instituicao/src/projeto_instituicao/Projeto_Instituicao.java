@@ -3,24 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication2;
+package projeto_instituicao;
 
 /**
  *
  * @author fabricio
  */
-public class JavaApplication2 {
+public class Projeto_Instituicao {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-<<<<<<< HEAD
-        //comentário do matheus
-        //comentario do igor :D
-=======
->>>>>>> parent of d5b6c72... glória a deus
     }
     
 }
