@@ -18,6 +18,8 @@ public class JavaApplication2 {
         // TODO code application logic here
         //comentário do matheus
         //comentario do igor :D
+=======
+>>>>>>> parent of d5b6c72... glória a deus
     }
     
 }
