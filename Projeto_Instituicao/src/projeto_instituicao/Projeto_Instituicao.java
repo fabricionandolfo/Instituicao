@@ -15,7 +15,11 @@ public class Projeto_Instituicao {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("teste");
+=======
+        System.out.println("ola");
+>>>>>>> fabricio
         
         System.out.println("   asodjiaosd ");
     }
