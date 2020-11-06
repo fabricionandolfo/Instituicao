@@ -15,7 +15,13 @@ public class Projeto_Instituicao {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< Updated upstream
         System.out.println("teste");
+=======
+
+        
+        
+>>>>>>> Stashed changes
         
         System.out.println("   asodjiaosd ");
     }
