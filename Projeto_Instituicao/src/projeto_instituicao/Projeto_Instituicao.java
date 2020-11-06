@@ -17,7 +17,6 @@ public class Projeto_Instituicao {
     public static void main(String[] args) {
 <<<<<<< Updated upstream
 =======
-        System.out.println("joabeee");
 >>>>>>> Stashed changes
         
         System.out.println("   asodjiaosd ");
