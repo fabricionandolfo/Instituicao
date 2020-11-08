@@ -5,6 +5,9 @@
  */
 package projeto_instituicao;
 
+import view.CadastroFuncionario;
+import view.Loguin;
+
 /**
  *
  * @author fabricio
@@ -15,14 +18,8 @@ public class Projeto_Instituicao {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("   asodjiaosd ");
-
-        
-        
-        
-        System.out.println("    TESTE");
-
-        System.out.println("    TESTE");
+        Loguin log = new Loguin(); 
+        log.setVisible(true);
 
 
     }
